@@ -2,6 +2,7 @@
 <br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+Full Stack Developer trained as a systems engineer, with more than 2 years as an independent web developer specialized in Front End (javascript, flutter, css) and Back End (nodeJS). With knowledge in databases, design patterns, software architectures. My experience in providing web-based solutions allowed me to develop skills such as self-confidence, versatility, curiosity and initiative.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
@@ -246,9 +247,3 @@
 </details>
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
