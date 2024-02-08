@@ -14,10 +14,5 @@
 - :school: I am a `Full Stack Developer` from [SoyHenry](https://www.soyhenry.com/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-<br>
-
-----	
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristianPereyraDev&theme=dark)](https://git.io/streak-stats)
 
 </details>
